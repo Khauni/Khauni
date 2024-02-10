@@ -13,16 +13,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khauni&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Khauni's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khauni&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khauni&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khauni&theme=tokyonight" />
-</a>
-
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khauni&label=Visitors&color=0bb981&style=flat" alt="khauni" /> </p>
