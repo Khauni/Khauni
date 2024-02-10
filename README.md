@@ -14,5 +14,4 @@
 | ------------- | ------------- |
 
 <br />
-<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khauni&label=Visitors&color=0bb981&style=flat" alt="khauni" /> </p>
