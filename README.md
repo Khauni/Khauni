@@ -3,7 +3,7 @@
 
 
 **About me**
--Im a 19yr old who spends too much time on vr, aswell as coding.
+-Im a 20yr old who spends too much time on vr, aswell as coding.
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
