@@ -4,7 +4,7 @@
 
 **About me**
 -Im just another degenerate on the internet who spends his time making fairly decent code and plays way too much VR. 
-
+- IM MOVING MY ENTIRE PROFILE TO MY OWN PAGE AVAILABLE AT https://paws.pawslut.me/khauni
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
